@@ -88,6 +88,3 @@ Ensure you have:
 
 ---
 
-## 📄 License
-
-This project is released under the MIT License. Refer to the LICENSE file for full terms and conditions.
